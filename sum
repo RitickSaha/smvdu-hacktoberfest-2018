@@ -1,8 +1,7 @@
 #include<iostream.h>
 void main()
 {
-int a,b,c;
+int a,c;
 cin>>a>>c;
-b=a+c;
-cout<<b;
+cout<<a+c;
 }
